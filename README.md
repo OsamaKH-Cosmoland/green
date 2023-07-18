@@ -6,7 +6,7 @@ Hello, I'm Osama Khaireldin! 👋
 
 ## Introduction
 
-I am a passionate AI development and researching based in Alexandria - Egypt. I enjoy doing most of things about technology and also going to the gym. With a background in I've worked as a Project manager and as a personal trainer and nutritionist and I now work in a Swedish software company as a AI enthusiasm.
+I am a passionate AI development and researching based in Alexandria - Egypt. I enjoy doing most of things about technology and also going to the gym. With a background in Psychological and social health, I've worked as a Project manager and as a personal trainer and nutritionist, and now work in a Swedish software company as a AI enthusiasm.
 I am enthusiastic about make new things using AI to make something useful and good business.
 
 ## Skills
